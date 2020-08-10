@@ -8,23 +8,39 @@
   :message: ''
   :unity_test_time: 0
 - :test: test_encender_un_led
-  :line: 32
+  :line: 34
   :message: ''
   :unity_test_time: 0
 - :test: test_encender_y_apagar_un_led
-  :line: 40
+  :line: 43
   :message: ''
   :unity_test_time: 0
 - :test: test_prender_y_apagar_varios_leds
-  :line: 50
+  :line: 53
+  :message: ''
+  :unity_test_time: 0
+- :test: test_asegurarse_que_un_led_no_afecta_a_los_demas
+  :line: 63
+  :message: ''
+  :unity_test_time: 0
+- :test: test_prender_todos_los_leds_simultaneamente
+  :line: 76
+  :message: ''
+  :unity_test_time: 0
+- :test: test_apagar_todos_los_leds_simultaneamente
+  :line: 83
+  :message: ''
+  :unity_test_time: 0
+- :test: test_consultar_el_estado_de_un_led
+  :line: 93
   :message: ''
   :unity_test_time: 0
 :failures: []
 :ignores: []
 :counts:
-  :total: 4
-  :passed: 4
+  :total: 8
+  :passed: 8
   :failed: 0
   :ignored: 0
 :stdout: []
-:time: 0.001459418999729678
+:time: 0.0024301049998030066
